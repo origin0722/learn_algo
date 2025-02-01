@@ -33,3 +33,5 @@ if __name__ == "__main__":
     #查找节点
     index = find(n0, 2)
     print("目标节点索引为  =",format(index))
+
+    
